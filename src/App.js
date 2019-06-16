@@ -16,9 +16,12 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          React Demo
         </a>
       </header>
+      <div className="content">
+        page
+      </div>
     </div>
   );
 }
